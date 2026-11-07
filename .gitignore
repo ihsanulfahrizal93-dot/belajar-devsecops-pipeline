@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pylint.d/
+
+# Database lokal (dibuat otomatis saat aplikasi berjalan)
+users.db
+
+# VS Code / OS
+.DS_Store
+Thumbs.db

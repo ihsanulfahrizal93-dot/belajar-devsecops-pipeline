@@ -1,7 +1,7 @@
 """Modul backend autentikasi Flask dengan antarmuka web interaktif."""
 
 import sqlite3
-from flask import Flask, render_template, request   
+from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
